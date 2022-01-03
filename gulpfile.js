@@ -4,7 +4,7 @@ const del = require('del');
 const fs = require('fs');
 
 function clean() {
-  return del('/dist');
+  return del('./dist/*');
 }
 
 function fetchSchedule( /*cb*/ ) {
@@ -21,7 +21,9 @@ function getPrices( /*cb*/ ) {
 
 function copyHeaders( /*cb*/ ) {
   return src('_headers')
-    .pipe(dest('./dist/_headers'));
+    .pipe(dest('./dist/'));
 }
+
+exports.clean = clean;
 
 exports.default = series(clean, fetchSchedule, getPrices, copyHeaders);
