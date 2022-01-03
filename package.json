@@ -1,0 +1,25 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memcap/cache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memcap/cache/issues"
+  },
+  "homepage": "https://github.com/memcap/cache#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "del": "^6.0.0",
+    "glob": "^7.2.0",
+    "gulp": "^4.0.2"
+  }
+}
