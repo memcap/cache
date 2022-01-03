@@ -1,388 +1,389 @@
 {
-  "schedule": {
+  "recurring": {
+    "7f825263-a100-4ef9-961a-97cfb0b15c11": {
+      "id": "7f825263-a100-4ef9-961a-97cfb0b15c11",
+      "instructor": "Qing (Celine)",
+      "location": "In-Person (studio)",
+      "description": "Yoga Sculpt - 60 minutes",
+      "date": "2021-10-09 09:00 October Saturday 2021-10-09T16:00:00.000Z"
+    },
+    "9222e652-f545-44dc-9fbd-603b85a5b164": {
+      "location": "In-Person (studio)",
+      "description": "Private Session - 60 minutes",
+      "id": "9222e652-f545-44dc-9fbd-603b85a5b164",
+      "instructor": "Qing (Celine)",
+      "date": "2021-11-01 13:00 November Monday 2021-11-01T20:00:00.000Z"
+    },
     "e8c0f0fc-02bc-4f7d-9ca8-31b598cbe5c9": {
-      "removed": false,
+      "date": "2021-06-17 10:30 June Thursday 2021-06-17T17:30:00.000Z",
+      "description": "Yoga Sculpt - 60 minutes",
+      "instructor": "Qing (Celine)",
+      "id": "e8c0f0fc-02bc-4f7d-9ca8-31b598cbe5c9",
+      "location": "In-Person (studio)"
+    },
+    "a4eb2cc6-e2ef-409d-9aad-d8d2713e9fa5": {
+      "instructor": "Jess KB",
+      "date": "2021-08-31 09:00 August Tuesday 2021-08-31T16:00:00.000Z",
+      "id": "a4eb2cc6-e2ef-409d-9aad-d8d2713e9fa5",
+      "location": "In-Person (studio)",
+      "description": "Power Yoga - 60 minutes"
+    },
+    "1c1415da-f13d-46e3-808e-fa6d6a144a10": {
+      "location": "In-Person (studio)",
+      "id": "1c1415da-f13d-46e3-808e-fa6d6a144a10",
+      "instructor": "Qing (Celine)",
+      "description": "Private Session - 60 minutes",
+      "date": "2021-08-07 14:00 August Saturday 2021-08-07T21:00:00.000Z"
+    },
+    "674f19f3-2bfa-4dcf-9f4c-e9be9f483590": {
+      "location": "In-Person (studio)",
+      "description": "Private Session - 60 minutes",
+      "id": "674f19f3-2bfa-4dcf-9f4c-e9be9f483590",
+      "instructor": "Qing (Celine)",
+      "date": "2021-11-05 13:00 November Friday 2021-11-05T20:00:00.000Z"
+    },
+    "971abad6-4856-4db3-af45-2183a54c166c": {
+      "id": "971abad6-4856-4db3-af45-2183a54c166c",
+      "instructor": "Qing (Celine)",
+      "location": "In-Person (studio)",
+      "description": "Yoga Sculpt - 60 minutes",
+      "date": "2021-06-16 17:30 June Wednesday 2021-06-17T00:30:00.000Z"
+    },
+    "d821c690-a9b4-4b99-bbfc-0ce578173998": {
+      "location": "In-Person (studio)",
+      "instructor": "Qing (Celine)",
+      "id": "d821c690-a9b4-4b99-bbfc-0ce578173998",
+      "date": "2021-09-01 09:00 September Wednesday 2021-09-01T16:00:00.000Z",
+      "description": "Fusion Yoga - 60 minutes"
+    },
+    "c3268ef4-839d-4d22-a091-0f35305a92f2": {
+      "instructor": "Qing (Celine)",
+      "id": "c3268ef4-839d-4d22-a091-0f35305a92f2",
+      "location": "In-Person (studio)",
+      "date": "2021-10-31 16:00 October Sunday 2021-10-31T23:00:00.000Z",
+      "description": "Slow Flow - 60 minutes"
+    },
+    "8d7f215c-9546-43e2-8d97-052e35df2258": {
+      "instructor": "Qing (Celine)",
+      "date": "2021-06-19 10:30 June Saturday 2021-06-19T17:30:00.000Z",
+      "location": "In-Person (studio)",
+      "description": "Yoga Sculpt - 60 minutes",
+      "id": "8d7f215c-9546-43e2-8d97-052e35df2258"
+    },
+    "feee097f-ce21-45c0-a353-334787a83dc2": {
+      "id": "feee097f-ce21-45c0-a353-334787a83dc2",
+      "instructor": "Qing (Celine)",
+      "location": "In-Person (studio)",
+      "date": "2021-07-18 09:30 July Sunday 2021-07-18T16:30:00.000Z",
+      "description": "Private Session - 60 minutes"
+    },
+    "e112c9c9-215d-4040-a59e-eb0ab642ab18": {
+      "id": "e112c9c9-215d-4040-a59e-eb0ab642ab18",
+      "location": "In-Person (studio)",
       "instructor": "Qing (Celine)",
       "description": "Yoga Sculpt - 60 minutes",
-      "id": "e8c0f0fc-02bc-4f7d-9ca8-31b598cbe5c9",
+      "date": "2021-07-13 10:30 July Tuesday 2021-07-13T17:30:00.000Z"
+    },
+    "9af64242-da56-433b-b547-36b9e4dd089a": {
+      "date": "2021-08-30 09:00 August Monday 2021-08-30T16:00:00.000Z",
       "location": "In-Person (studio)",
-      "date": "2022-01-06 10:30 January Thursday 2022-01-06T18:30:00.000Z"
+      "description": "Adapt & Flow - 60 minutes",
+      "instructor": "Janene",
+      "id": "9af64242-da56-433b-b547-36b9e4dd089a"
+    },
+    "ab08be09-7c5b-47c8-ac7a-02a9a601e9a3": {
+      "id": "ab08be09-7c5b-47c8-ac7a-02a9a601e9a3",
+      "date": "2021-07-22 17:30 July Thursday 2021-07-23T00:30:00.000Z",
+      "instructor": "Isabella",
+      "description": "Power Yoga - 60 minutes",
+      "location": "In-Person (studio)"
+    },
+    "dcc39b60-6217-4741-b2bc-87ca4d03dc19": {
+      "description": "Power Yoga - 60 minutes",
+      "date": "2021-09-03 09:00 September Friday 2021-09-03T16:00:00.000Z",
+      "location": "In-Person (studio)",
+      "instructor": "Eric",
+      "id": "dcc39b60-6217-4741-b2bc-87ca4d03dc19"
+    },
+    "f8b34c6d-f650-4e92-95c0-20aac1a0eae6": {
+      "instructor": "Qing (Celine)",
+      "id": "f8b34c6d-f650-4e92-95c0-20aac1a0eae6",
+      "date": "2021-08-31 17:30 August Tuesday 2021-09-01T00:30:00.000Z",
+      "location": "In-Person (studio)",
+      "description": "Power Yoga - 60 minutes"
+    },
+    "25b871dd-d338-43eb-9395-e202b34a09f7": {
+      "location": "In-Person (studio)",
+      "instructor": "Qing (Celine)",
+      "date": "2021-08-09 16:00 August Monday 2021-08-09T23:00:00.000Z",
+      "id": "25b871dd-d338-43eb-9395-e202b34a09f7",
+      "description": "Private Session - 60 minutes"
+    },
+    "6c7e6c41-3710-4f83-944c-3eb00c1b373e": {
+      "instructor": "Qing (Celine)",
+      "id": "6c7e6c41-3710-4f83-944c-3eb00c1b373e",
+      "date": "2021-08-11 16:00 August Wednesday 2021-08-11T23:00:00.000Z",
+      "location": "In-Person (studio)",
+      "description": "Private Session - 60 minutes"
+    },
+    "6296d1b7-45ec-4c5c-a17b-62f6cbe6aba1": {
+      "instructor": "Qing (Celine)",
+      "date": "2021-08-05 14:00 August Thursday 2021-08-05T21:00:00.000Z",
+      "location": "In-Person (studio)",
+      "description": "Private Session - 60 minutes",
+      "id": "6296d1b7-45ec-4c5c-a17b-62f6cbe6aba1"
+    },
+    "f25134e8-3bf6-4be5-a50d-4073921bf7c8": {
+      "location": "In-Person (studio)",
+      "description": "Fusion Yoga - 60 minutes",
+      "date": "2021-06-18 17:00 June Friday 2021-06-19T00:00:00.000Z",
+      "id": "f25134e8-3bf6-4be5-a50d-4073921bf7c8",
+      "instructor": "Qing (Celine)"
+    },
+    "fa5952a8-491a-4b06-8fc3-2f716608c5e7": {
+      "instructor": "Qing (Celine)",
+      "id": "fa5952a8-491a-4b06-8fc3-2f716608c5e7",
+      "location": "In-Person (studio)",
+      "description": "Power Yoga - 60 minutes",
+      "date": "2021-09-15 10:30 September Wednesday 2021-09-15T17:30:00.000Z"
+    },
+    "eb8d6099-0ffa-4cad-8849-0f1ceaa462ac": {
+      "date": "2021-10-31 17:30 October Sunday 2021-11-01T00:30:00.000Z",
+      "description": "Private Session - 60 minutes",
+      "id": "eb8d6099-0ffa-4cad-8849-0f1ceaa462ac",
+      "instructor": "Qing (Celine)",
+      "location": "In-Person (studio)"
+    },
+    "ba9d2b11-a84e-4139-a4e3-a792bc2fdf00": {
+      "location": "In-Person (studio)",
+      "instructor": "Jess KB",
+      "id": "ba9d2b11-a84e-4139-a4e3-a792bc2fdf00",
+      "description": "Power Yoga - 60 minutes",
+      "date": "2021-09-02 09:00 September Thursday 2021-09-02T16:00:00.000Z"
+    },
+    "cdaad56d-c965-4a48-8b17-2d8129eb7d66": {
+      "id": "cdaad56d-c965-4a48-8b17-2d8129eb7d66",
+      "instructor": "Qing (Celine)",
+      "description": "Yoga Sculpt - 60 minutes",
+      "location": "In-Person (studio)",
+      "date": "2021-06-14 17:30 June Monday 2021-06-15T00:30:00.000Z"
+    },
+    "ca8bda9c-5362-4f27-a69f-738d3aada866": {
+      "instructor": "Qing (Celine)",
+      "date": "2021-08-08 12:00 August Sunday 2021-08-08T19:00:00.000Z",
+      "location": "In-Person (studio)",
+      "description": "Private Session - 60 minutes",
+      "id": "ca8bda9c-5362-4f27-a69f-738d3aada866"
+    }
+  },
+  "schedule": {
+    "eb8d6099-0ffa-4cad-8849-0f1ceaa462ac": {
+      "instructor": "Qing (Celine)",
+      "id": "eb8d6099-0ffa-4cad-8849-0f1ceaa462ac",
+      "description": "Private Session - 60 minutes",
+      "location": "In-Person (studio)",
+      "removed": false,
+      "date": "2022-01-02 17:30 January Sunday 2022-01-03T01:30:00.000Z"
+    },
+    "25b871dd-d338-43eb-9395-e202b34a09f7": {
+      "id": "25b871dd-d338-43eb-9395-e202b34a09f7",
+      "description": "Private Session - 60 minutes",
+      "removed": false,
+      "date": "2022-01-03 16:00 January Monday 2022-01-04T00:00:00.000Z",
+      "instructor": "Qing (Celine)",
+      "location": "In-Person (studio)"
+    },
+    "971abad6-4856-4db3-af45-2183a54c166c": {
+      "location": "In-Person (studio)",
+      "description": "Yoga Sculpt - 60 minutes",
+      "removed": false,
+      "id": "971abad6-4856-4db3-af45-2183a54c166c",
+      "date": "2022-01-05 17:30 January Wednesday 2022-01-06T01:30:00.000Z",
+      "instructor": "Qing (Celine)"
+    },
+    "9222e652-f545-44dc-9fbd-603b85a5b164": {
+      "location": "In-Person (studio)",
+      "date": "2022-01-03 13:00 January Monday 2022-01-03T21:00:00.000Z",
+      "id": "9222e652-f545-44dc-9fbd-603b85a5b164",
+      "description": "Private Session - 60 minutes",
+      "removed": false,
+      "instructor": "Qing (Celine)"
+    },
+    "dcc39b60-6217-4741-b2bc-87ca4d03dc19": {
+      "id": "dcc39b60-6217-4741-b2bc-87ca4d03dc19",
+      "location": "In-Person (studio)",
+      "description": "Power Yoga - 60 minutes",
+      "instructor": "Eric",
+      "date": "2022-01-07 09:00 January Friday 2022-01-07T17:00:00.000Z",
+      "removed": false
+    },
+    "7f825263-a100-4ef9-961a-97cfb0b15c11": {
+      "instructor": "Qing (Celine)",
+      "removed": false,
+      "location": "In-Person (studio)",
+      "date": "2022-01-08 09:00 January Saturday 2022-01-08T17:00:00.000Z",
+      "description": "Yoga Sculpt - 60 minutes",
+      "id": "7f825263-a100-4ef9-961a-97cfb0b15c11"
+    },
+    "6c7e6c41-3710-4f83-944c-3eb00c1b373e": {
+      "removed": false,
+      "instructor": "Qing (Celine)",
+      "location": "In-Person (studio)",
+      "date": "2022-01-05 16:00 January Wednesday 2022-01-06T00:00:00.000Z",
+      "id": "6c7e6c41-3710-4f83-944c-3eb00c1b373e",
+      "description": "Private Session - 60 minutes"
+    },
+    "cdaad56d-c965-4a48-8b17-2d8129eb7d66": {
+      "id": "cdaad56d-c965-4a48-8b17-2d8129eb7d66",
+      "instructor": "Qing (Celine)",
+      "removed": false,
+      "location": "In-Person (studio)",
+      "date": "2022-01-03 17:30 January Monday 2022-01-04T01:30:00.000Z",
+      "description": "Yoga Sculpt - 60 minutes"
+    },
+    "d821c690-a9b4-4b99-bbfc-0ce578173998": {
+      "id": "d821c690-a9b4-4b99-bbfc-0ce578173998",
+      "location": "In-Person (studio)",
+      "description": "Fusion Yoga - 60 minutes",
+      "instructor": "Qing (Celine)",
+      "date": "2022-01-05 09:00 January Wednesday 2022-01-05T17:00:00.000Z",
+      "removed": false
     },
     "9af64242-da56-433b-b547-36b9e4dd089a": {
       "id": "9af64242-da56-433b-b547-36b9e4dd089a",
       "removed": false,
       "date": "2022-01-03 09:00 January Monday 2022-01-03T17:00:00.000Z",
-      "location": "In-Person (studio)",
       "description": "Adapt & Flow - 60 minutes",
-      "instructor": "Janene"
+      "instructor": "Janene",
+      "location": "In-Person (studio)"
     },
-    "9222e652-f545-44dc-9fbd-603b85a5b164": {
-      "removed": false,
-      "description": "Private Session - 60 minutes",
-      "instructor": "Qing (Celine)",
-      "location": "In-Person (studio)",
-      "date": "2022-01-03 13:00 January Monday 2022-01-03T21:00:00.000Z",
-      "id": "9222e652-f545-44dc-9fbd-603b85a5b164"
-    },
-    "e112c9c9-215d-4040-a59e-eb0ab642ab18": {
-      "location": "In-Person (studio)",
-      "id": "e112c9c9-215d-4040-a59e-eb0ab642ab18",
-      "date": "2022-01-04 10:30 January Tuesday 2022-01-04T18:30:00.000Z",
-      "removed": false,
-      "description": "Yoga Sculpt - 60 minutes",
-      "instructor": "Qing (Celine)"
-    },
-    "d821c690-a9b4-4b99-bbfc-0ce578173998": {
-      "id": "d821c690-a9b4-4b99-bbfc-0ce578173998",
-      "removed": false,
+    "f25134e8-3bf6-4be5-a50d-4073921bf7c8": {
+      "date": "2022-01-07 17:00 January Friday 2022-01-08T01:00:00.000Z",
       "description": "Fusion Yoga - 60 minutes",
-      "date": "2022-01-05 09:00 January Wednesday 2022-01-05T17:00:00.000Z",
       "location": "In-Person (studio)",
-      "instructor": "Qing (Celine)"
-    },
-    "674f19f3-2bfa-4dcf-9f4c-e9be9f483590": {
-      "instructor": "Qing (Celine)",
-      "location": "In-Person (studio)",
+      "id": "f25134e8-3bf6-4be5-a50d-4073921bf7c8",
       "removed": false,
-      "id": "674f19f3-2bfa-4dcf-9f4c-e9be9f483590",
-      "description": "Private Session - 60 minutes",
-      "date": "2022-01-07 13:00 January Friday 2022-01-07T21:00:00.000Z"
+      "instructor": "Qing (Celine)"
     },
     "a4eb2cc6-e2ef-409d-9aad-d8d2713e9fa5": {
-      "date": "2022-01-04 09:00 January Tuesday 2022-01-04T17:00:00.000Z",
-      "removed": false,
-      "description": "Power Yoga - 60 minutes",
       "id": "a4eb2cc6-e2ef-409d-9aad-d8d2713e9fa5",
+      "date": "2022-01-04 09:00 January Tuesday 2022-01-04T17:00:00.000Z",
+      "description": "Power Yoga - 60 minutes",
+      "removed": false,
       "location": "In-Person (studio)",
       "instructor": "Jess KB"
     },
-    "6296d1b7-45ec-4c5c-a17b-62f6cbe6aba1": {
+    "feee097f-ce21-45c0-a353-334787a83dc2": {
+      "date": "2022-01-02 09:30 January Sunday 2022-01-02T17:30:00.000Z",
       "description": "Private Session - 60 minutes",
-      "id": "6296d1b7-45ec-4c5c-a17b-62f6cbe6aba1",
       "removed": false,
-      "location": "In-Person (studio)",
-      "date": "2022-01-06 14:00 January Thursday 2022-01-06T22:00:00.000Z",
-      "instructor": "Qing (Celine)"
-    },
-    "6c7e6c41-3710-4f83-944c-3eb00c1b373e": {
       "instructor": "Qing (Celine)",
-      "removed": false,
-      "description": "Private Session - 60 minutes",
-      "location": "In-Person (studio)",
-      "id": "6c7e6c41-3710-4f83-944c-3eb00c1b373e",
-      "date": "2022-01-05 16:00 January Wednesday 2022-01-06T00:00:00.000Z"
-    },
-    "ca8bda9c-5362-4f27-a69f-738d3aada866": {
-      "location": "In-Person (studio)",
-      "id": "ca8bda9c-5362-4f27-a69f-738d3aada866",
-      "removed": false,
-      "description": "Private Session - 60 minutes",
-      "date": "2022-01-02 12:00 January Sunday 2022-01-02T20:00:00.000Z",
-      "instructor": "Qing (Celine)"
-    },
-    "c3268ef4-839d-4d22-a091-0f35305a92f2": {
-      "date": "2022-01-02 16:00 January Sunday 2022-01-03T00:00:00.000Z",
-      "removed": false,
-      "description": "Slow Flow - 60 minutes",
-      "instructor": "Qing (Celine)",
-      "id": "c3268ef4-839d-4d22-a091-0f35305a92f2",
+      "id": "feee097f-ce21-45c0-a353-334787a83dc2",
       "location": "In-Person (studio)"
     },
-    "9b00ddef-8ca9-44da-9eab-9229880c098e": {
+    "6296d1b7-45ec-4c5c-a17b-62f6cbe6aba1": {
+      "date": "2022-01-06 14:00 January Thursday 2022-01-06T22:00:00.000Z",
       "instructor": "Qing (Celine)",
-      "removed": false,
-      "location": "Zoom (online class)",
-      "description": "Slow Flow - 60 Minutes",
-      "date": "2022-01-02 16:00 January Sunday 2022-01-03T00:00:00.000Z"
-    },
-    "8d7f215c-9546-43e2-8d97-052e35df2258": {
-      "id": "8d7f215c-9546-43e2-8d97-052e35df2258",
-      "date": "2022-01-08 10:30 January Saturday 2022-01-08T18:30:00.000Z",
       "location": "In-Person (studio)",
-      "description": "Yoga Sculpt - 60 minutes",
-      "instructor": "Qing (Celine)",
+      "id": "6296d1b7-45ec-4c5c-a17b-62f6cbe6aba1",
+      "description": "Private Session - 60 minutes",
       "removed": false
     },
-    "fa5952a8-491a-4b06-8fc3-2f716608c5e7": {
-      "removed": false,
+    "e112c9c9-215d-4040-a59e-eb0ab642ab18": {
+      "id": "e112c9c9-215d-4040-a59e-eb0ab642ab18",
       "location": "In-Person (studio)",
+      "date": "2022-01-04 10:30 January Tuesday 2022-01-04T18:30:00.000Z",
       "instructor": "Qing (Celine)",
-      "id": "fa5952a8-491a-4b06-8fc3-2f716608c5e7",
-      "description": "Power Yoga - 60 minutes",
-      "date": "2022-01-05 10:30 January Wednesday 2022-01-05T18:30:00.000Z"
-    },
-    "ba9d2b11-a84e-4139-a4e3-a792bc2fdf00": {
-      "description": "Power Yoga - 60 minutes",
-      "date": "2022-01-06 09:00 January Thursday 2022-01-06T17:00:00.000Z",
       "removed": false,
-      "location": "In-Person (studio)",
-      "instructor": "Jess KB",
-      "id": "ba9d2b11-a84e-4139-a4e3-a792bc2fdf00"
+      "description": "Yoga Sculpt - 60 minutes"
     },
-    "eb8d6099-0ffa-4cad-8849-0f1ceaa462ac": {
-      "id": "eb8d6099-0ffa-4cad-8849-0f1ceaa462ac",
-      "date": "2022-01-02 17:30 January Sunday 2022-01-03T01:30:00.000Z",
-      "description": "Private Session - 60 minutes",
-      "removed": false,
-      "location": "In-Person (studio)",
-      "instructor": "Qing (Celine)"
-    },
-    "971abad6-4856-4db3-af45-2183a54c166c": {
-      "date": "2022-01-05 17:30 January Wednesday 2022-01-06T01:30:00.000Z",
+    "674f19f3-2bfa-4dcf-9f4c-e9be9f483590": {
       "instructor": "Qing (Celine)",
-      "id": "971abad6-4856-4db3-af45-2183a54c166c",
-      "description": "Yoga Sculpt - 60 minutes",
-      "location": "In-Person (studio)",
-      "removed": false
-    },
-    "ab08be09-7c5b-47c8-ac7a-02a9a601e9a3": {
-      "description": "Power Yoga - 60 minutes",
-      "location": "In-Person (studio)",
       "removed": false,
-      "id": "ab08be09-7c5b-47c8-ac7a-02a9a601e9a3",
-      "instructor": "Isabella",
-      "date": "2022-01-06 17:30 January Thursday 2022-01-07T01:30:00.000Z"
-    },
-    "feee097f-ce21-45c0-a353-334787a83dc2": {
-      "location": "In-Person (studio)",
-      "date": "2022-01-02 09:30 January Sunday 2022-01-02T17:30:00.000Z",
-      "removed": false,
-      "id": "feee097f-ce21-45c0-a353-334787a83dc2",
+      "id": "674f19f3-2bfa-4dcf-9f4c-e9be9f483590",
+      "date": "2022-01-07 13:00 January Friday 2022-01-07T21:00:00.000Z",
       "description": "Private Session - 60 minutes",
-      "instructor": "Qing (Celine)"
+      "location": "In-Person (studio)"
     },
     "f8b34c6d-f650-4e92-95c0-20aac1a0eae6": {
-      "location": "In-Person (studio)",
       "description": "Power Yoga - 60 minutes",
-      "instructor": "Qing (Celine)",
-      "removed": false,
       "id": "f8b34c6d-f650-4e92-95c0-20aac1a0eae6",
-      "date": "2022-01-04 17:30 January Tuesday 2022-01-05T01:30:00.000Z"
-    },
-    "cdaad56d-c965-4a48-8b17-2d8129eb7d66": {
       "location": "In-Person (studio)",
+      "date": "2022-01-04 17:30 January Tuesday 2022-01-05T01:30:00.000Z",
       "instructor": "Qing (Celine)",
-      "description": "Yoga Sculpt - 60 minutes",
-      "date": "2022-01-03 17:30 January Monday 2022-01-04T01:30:00.000Z",
-      "id": "cdaad56d-c965-4a48-8b17-2d8129eb7d66",
       "removed": false
     },
-    "7f825263-a100-4ef9-961a-97cfb0b15c11": {
+    "e8c0f0fc-02bc-4f7d-9ca8-31b598cbe5c9": {
+      "id": "e8c0f0fc-02bc-4f7d-9ca8-31b598cbe5c9",
       "description": "Yoga Sculpt - 60 minutes",
-      "id": "7f825263-a100-4ef9-961a-97cfb0b15c11",
       "removed": false,
+      "date": "2022-01-06 10:30 January Thursday 2022-01-06T18:30:00.000Z",
+      "instructor": "Qing (Celine)",
+      "location": "In-Person (studio)"
+    },
+    "ca8bda9c-5362-4f27-a69f-738d3aada866": {
+      "id": "ca8bda9c-5362-4f27-a69f-738d3aada866",
+      "date": "2022-01-02 12:00 January Sunday 2022-01-02T20:00:00.000Z",
+      "removed": false,
+      "description": "Private Session - 60 minutes",
+      "instructor": "Qing (Celine)",
+      "location": "In-Person (studio)"
+    },
+    "0ba60022-dbd1-49ad-b1e5-01e9fc404327": {
+      "instructor": "Qing (Celine)",
+      "date": "2022-01-02 16:00 January Sunday 2022-01-03T00:00:00.000Z",
+      "location": "Zoom (online class)",
+      "description": "Slow Flow - 60 Minutes",
+      "id": "0ba60022-dbd1-49ad-b1e5-01e9fc404327",
+      "removed": false
+    },
+    "ba9d2b11-a84e-4139-a4e3-a792bc2fdf00": {
+      "id": "ba9d2b11-a84e-4139-a4e3-a792bc2fdf00",
+      "instructor": "Jess KB",
+      "date": "2022-01-06 09:00 January Thursday 2022-01-06T17:00:00.000Z",
+      "description": "Power Yoga - 60 minutes",
+      "location": "In-Person (studio)",
+      "removed": false
+    },
+    "8d7f215c-9546-43e2-8d97-052e35df2258": {
+      "date": "2022-01-08 10:30 January Saturday 2022-01-08T18:30:00.000Z",
       "instructor": "Qing (Celine)",
       "location": "In-Person (studio)",
-      "date": "2022-01-08 09:00 January Saturday 2022-01-08T17:00:00.000Z"
-    },
-    "dcc39b60-6217-4741-b2bc-87ca4d03dc19": {
-      "description": "Power Yoga - 60 minutes",
+      "id": "8d7f215c-9546-43e2-8d97-052e35df2258",
       "removed": false,
-      "instructor": "Eric",
+      "description": "Yoga Sculpt - 60 minutes"
+    },
+    "fa5952a8-491a-4b06-8fc3-2f716608c5e7": {
+      "date": "2022-01-05 10:30 January Wednesday 2022-01-05T18:30:00.000Z",
+      "instructor": "Qing (Celine)",
+      "removed": false,
+      "id": "fa5952a8-491a-4b06-8fc3-2f716608c5e7",
+      "description": "Power Yoga - 60 minutes",
+      "location": "In-Person (studio)"
+    },
+    "ab08be09-7c5b-47c8-ac7a-02a9a601e9a3": {
       "location": "In-Person (studio)",
-      "id": "dcc39b60-6217-4741-b2bc-87ca4d03dc19",
-      "date": "2022-01-07 09:00 January Friday 2022-01-07T17:00:00.000Z"
+      "date": "2022-01-06 17:30 January Thursday 2022-01-07T01:30:00.000Z",
+      "description": "Power Yoga - 60 minutes",
+      "instructor": "Isabella",
+      "removed": false,
+      "id": "ab08be09-7c5b-47c8-ac7a-02a9a601e9a3"
     },
     "1c1415da-f13d-46e3-808e-fa6d6a144a10": {
-      "description": "Private Session - 60 minutes",
+      "instructor": "Qing (Celine)",
       "location": "In-Person (studio)",
       "id": "1c1415da-f13d-46e3-808e-fa6d6a144a10",
       "date": "2022-01-08 14:00 January Saturday 2022-01-08T22:00:00.000Z",
-      "instructor": "Qing (Celine)",
-      "removed": false
-    },
-    "f25134e8-3bf6-4be5-a50d-4073921bf7c8": {
-      "instructor": "Qing (Celine)",
-      "location": "In-Person (studio)",
-      "date": "2022-01-07 17:00 January Friday 2022-01-08T01:00:00.000Z",
-      "description": "Fusion Yoga - 60 minutes",
-      "id": "f25134e8-3bf6-4be5-a50d-4073921bf7c8",
-      "removed": false
-    },
-    "25b871dd-d338-43eb-9395-e202b34a09f7": {
-      "description": "Private Session - 60 minutes",
-      "location": "In-Person (studio)",
       "removed": false,
-      "date": "2022-01-03 16:00 January Monday 2022-01-04T00:00:00.000Z",
-      "id": "25b871dd-d338-43eb-9395-e202b34a09f7",
-      "instructor": "Qing (Celine)"
-    }
-  },
-  "recurring": {
-    "f8b34c6d-f650-4e92-95c0-20aac1a0eae6": {
-      "instructor": "Qing (Celine)",
-      "description": "Power Yoga - 60 minutes",
-      "location": "In-Person (studio)",
-      "date": "2021-08-31 17:30 August Tuesday 2021-09-01T00:30:00.000Z",
-      "id": "f8b34c6d-f650-4e92-95c0-20aac1a0eae6"
-    },
-    "971abad6-4856-4db3-af45-2183a54c166c": {
-      "location": "In-Person (studio)",
-      "id": "971abad6-4856-4db3-af45-2183a54c166c",
-      "instructor": "Qing (Celine)",
-      "description": "Yoga Sculpt - 60 minutes",
-      "date": "2021-06-16 17:30 June Wednesday 2021-06-17T00:30:00.000Z"
-    },
-    "674f19f3-2bfa-4dcf-9f4c-e9be9f483590": {
-      "location": "In-Person (studio)",
-      "instructor": "Qing (Celine)",
-      "description": "Private Session - 60 minutes",
-      "id": "674f19f3-2bfa-4dcf-9f4c-e9be9f483590",
-      "date": "2021-11-05 13:00 November Friday 2021-11-05T20:00:00.000Z"
-    },
-    "ca8bda9c-5362-4f27-a69f-738d3aada866": {
-      "id": "ca8bda9c-5362-4f27-a69f-738d3aada866",
-      "description": "Private Session - 60 minutes",
-      "location": "In-Person (studio)",
-      "date": "2021-08-08 12:00 August Sunday 2021-08-08T19:00:00.000Z",
-      "instructor": "Qing (Celine)"
+      "description": "Private Session - 60 minutes"
     },
     "c3268ef4-839d-4d22-a091-0f35305a92f2": {
-      "description": "Slow Flow - 60 minutes",
       "id": "c3268ef4-839d-4d22-a091-0f35305a92f2",
+      "date": "2022-01-02 16:00 January Sunday 2022-01-03T00:00:00.000Z",
+      "location": "In-Person (studio)",
       "instructor": "Qing (Celine)",
-      "date": "2021-10-31 16:00 October Sunday 2021-10-31T23:00:00.000Z",
-      "location": "In-Person (studio)"
-    },
-    "d821c690-a9b4-4b99-bbfc-0ce578173998": {
-      "id": "d821c690-a9b4-4b99-bbfc-0ce578173998",
-      "description": "Fusion Yoga - 60 minutes",
-      "instructor": "Qing (Celine)",
-      "date": "2021-09-01 09:00 September Wednesday 2021-09-01T16:00:00.000Z",
-      "location": "In-Person (studio)"
-    },
-    "f25134e8-3bf6-4be5-a50d-4073921bf7c8": {
-      "id": "f25134e8-3bf6-4be5-a50d-4073921bf7c8",
-      "instructor": "Qing (Celine)",
-      "date": "2021-06-18 17:00 June Friday 2021-06-19T00:00:00.000Z",
-      "location": "In-Person (studio)",
-      "description": "Fusion Yoga - 60 minutes"
-    },
-    "eb8d6099-0ffa-4cad-8849-0f1ceaa462ac": {
-      "id": "eb8d6099-0ffa-4cad-8849-0f1ceaa462ac",
-      "instructor": "Qing (Celine)",
-      "description": "Private Session - 60 minutes",
-      "location": "In-Person (studio)",
-      "date": "2021-10-31 17:30 October Sunday 2021-11-01T00:30:00.000Z"
-    },
-    "e112c9c9-215d-4040-a59e-eb0ab642ab18": {
-      "description": "Yoga Sculpt - 60 minutes",
-      "id": "e112c9c9-215d-4040-a59e-eb0ab642ab18",
-      "instructor": "Qing (Celine)",
-      "date": "2021-07-13 10:30 July Tuesday 2021-07-13T17:30:00.000Z",
-      "location": "In-Person (studio)"
-    },
-    "25b871dd-d338-43eb-9395-e202b34a09f7": {
-      "location": "In-Person (studio)",
-      "description": "Private Session - 60 minutes",
-      "date": "2021-08-09 16:00 August Monday 2021-08-09T23:00:00.000Z",
-      "instructor": "Qing (Celine)",
-      "id": "25b871dd-d338-43eb-9395-e202b34a09f7"
-    },
-    "9af64242-da56-433b-b547-36b9e4dd089a": {
-      "id": "9af64242-da56-433b-b547-36b9e4dd089a",
-      "instructor": "Janene",
-      "description": "Adapt & Flow - 60 minutes",
-      "date": "2021-08-30 09:00 August Monday 2021-08-30T16:00:00.000Z",
-      "location": "In-Person (studio)"
-    },
-    "7f825263-a100-4ef9-961a-97cfb0b15c11": {
-      "location": "In-Person (studio)",
-      "id": "7f825263-a100-4ef9-961a-97cfb0b15c11",
-      "description": "Yoga Sculpt - 60 minutes",
-      "instructor": "Qing (Celine)",
-      "date": "2021-10-09 09:00 October Saturday 2021-10-09T16:00:00.000Z"
-    },
-    "ba9d2b11-a84e-4139-a4e3-a792bc2fdf00": {
-      "date": "2021-09-02 09:00 September Thursday 2021-09-02T16:00:00.000Z",
-      "id": "ba9d2b11-a84e-4139-a4e3-a792bc2fdf00",
-      "instructor": "Jess KB",
-      "location": "In-Person (studio)",
-      "description": "Power Yoga - 60 minutes"
-    },
-    "1c1415da-f13d-46e3-808e-fa6d6a144a10": {
-      "instructor": "Qing (Celine)",
-      "description": "Private Session - 60 minutes",
-      "id": "1c1415da-f13d-46e3-808e-fa6d6a144a10",
-      "location": "In-Person (studio)",
-      "date": "2021-08-07 14:00 August Saturday 2021-08-07T21:00:00.000Z"
-    },
-    "feee097f-ce21-45c0-a353-334787a83dc2": {
-      "location": "In-Person (studio)",
-      "date": "2021-07-18 09:30 July Sunday 2021-07-18T16:30:00.000Z",
-      "instructor": "Qing (Celine)",
-      "description": "Private Session - 60 minutes",
-      "id": "feee097f-ce21-45c0-a353-334787a83dc2"
-    },
-    "6c7e6c41-3710-4f83-944c-3eb00c1b373e": {
-      "location": "In-Person (studio)",
-      "description": "Private Session - 60 minutes",
-      "id": "6c7e6c41-3710-4f83-944c-3eb00c1b373e",
-      "instructor": "Qing (Celine)",
-      "date": "2021-08-11 16:00 August Wednesday 2021-08-11T23:00:00.000Z"
-    },
-    "8d7f215c-9546-43e2-8d97-052e35df2258": {
-      "instructor": "Qing (Celine)",
-      "id": "8d7f215c-9546-43e2-8d97-052e35df2258",
-      "location": "In-Person (studio)",
-      "description": "Yoga Sculpt - 60 minutes",
-      "date": "2021-06-19 10:30 June Saturday 2021-06-19T17:30:00.000Z"
-    },
-    "9222e652-f545-44dc-9fbd-603b85a5b164": {
-      "date": "2021-11-01 13:00 November Monday 2021-11-01T20:00:00.000Z",
-      "instructor": "Qing (Celine)",
-      "description": "Private Session - 60 minutes",
-      "location": "In-Person (studio)",
-      "id": "9222e652-f545-44dc-9fbd-603b85a5b164"
-    },
-    "dcc39b60-6217-4741-b2bc-87ca4d03dc19": {
-      "id": "dcc39b60-6217-4741-b2bc-87ca4d03dc19",
-      "instructor": "Eric",
-      "description": "Power Yoga - 60 minutes",
-      "location": "In-Person (studio)",
-      "date": "2021-09-03 09:00 September Friday 2021-09-03T16:00:00.000Z"
-    },
-    "e8c0f0fc-02bc-4f7d-9ca8-31b598cbe5c9": {
-      "instructor": "Qing (Celine)",
-      "date": "2021-06-17 10:30 June Thursday 2021-06-17T17:30:00.000Z",
-      "description": "Yoga Sculpt - 60 minutes",
-      "id": "e8c0f0fc-02bc-4f7d-9ca8-31b598cbe5c9",
-      "location": "In-Person (studio)"
-    },
-    "6296d1b7-45ec-4c5c-a17b-62f6cbe6aba1": {
-      "date": "2021-08-05 14:00 August Thursday 2021-08-05T21:00:00.000Z",
-      "id": "6296d1b7-45ec-4c5c-a17b-62f6cbe6aba1",
-      "location": "In-Person (studio)",
-      "description": "Private Session - 60 minutes",
-      "instructor": "Qing (Celine)"
-    },
-    "cdaad56d-c965-4a48-8b17-2d8129eb7d66": {
-      "instructor": "Qing (Celine)",
-      "description": "Yoga Sculpt - 60 minutes",
-      "location": "In-Person (studio)",
-      "id": "cdaad56d-c965-4a48-8b17-2d8129eb7d66",
-      "date": "2021-06-14 17:30 June Monday 2021-06-15T00:30:00.000Z"
-    },
-    "fa5952a8-491a-4b06-8fc3-2f716608c5e7": {
-      "location": "In-Person (studio)",
-      "description": "Power Yoga - 60 minutes",
-      "date": "2021-09-15 10:30 September Wednesday 2021-09-15T17:30:00.000Z",
-      "id": "fa5952a8-491a-4b06-8fc3-2f716608c5e7",
-      "instructor": "Qing (Celine)"
-    },
-    "ab08be09-7c5b-47c8-ac7a-02a9a601e9a3": {
-      "date": "2021-07-22 17:30 July Thursday 2021-07-23T00:30:00.000Z",
-      "description": "Power Yoga - 60 minutes",
-      "location": "In-Person (studio)",
-      "instructor": "Isabella",
-      "id": "ab08be09-7c5b-47c8-ac7a-02a9a601e9a3"
-    },
-    "a4eb2cc6-e2ef-409d-9aad-d8d2713e9fa5": {
-      "id": "a4eb2cc6-e2ef-409d-9aad-d8d2713e9fa5",
-      "instructor": "Jess KB",
-      "description": "Power Yoga - 60 minutes",
-      "date": "2021-08-31 09:00 August Tuesday 2021-08-31T16:00:00.000Z",
-      "location": "In-Person (studio)"
+      "removed": false,
+      "description": "Slow Flow - 60 minutes"
     }
   }
 }

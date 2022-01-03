@@ -19,4 +19,9 @@ function getPrices( /*cb*/ ) {
   });
 }
 
-exports.default = series(clean, fetchSchedule, getPrices);
+function copyToml( /*cb*/ ) {
+  return src('netlify.toml')
+    .pipe(dest('./dist/netlify.toml'));
+}
+
+exports.default = series(clean, fetchSchedule, getPrices, copyToml);
