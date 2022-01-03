@@ -24,6 +24,11 @@ function copyHeaders( /*cb*/ ) {
     .pipe(dest('./dist/'));
 }
 
+function copyToml( /*cb*/ ) {
+  return src('netlify.toml')
+    .pipe(dest('./dist/'));
+}
+
 exports.clean = clean;
 
-exports.default = series(clean, fetchSchedule, getPrices, copyHeaders);
+exports.default = series(clean, fetchSchedule, getPrices, copyHeaders, copyToml);
